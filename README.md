@@ -1,29 +1,22 @@
-<h1 align="center">Hola, soy Eduardo Paricahua 👋</h1>
-
-<h3 align="center">Database Administrator (DBA) | Data Engineer en formación</h3>
 
 <h1 align="left">Hi! I'm <code>&lt;/Eduardo&gt;</code></h1>
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Optimizando+Bases+de+Datos;Construyendo+Pipelines+de+Datos;Apasionado+por+el+Backend+y+Data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Database+Administrator+(DBA);Aspiring+Data+Engineer;Data+Specialist" alt="Typing SVG" />
 </div>
-
-<h1 align="center"><b>Hi , I'm Valentina Werle </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" src="https://raw.githubusercontent.com/laplace71/laplace71/main/ulquiorra%20cifer%20bleach%20GIF.gif" width="300" alt="Ulquiorra GIF" />
+<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="50" height="1" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+Hi! I'm a second-year Software Design and Development student, currently working as a Database Administrator (DBA). 
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
-- 🌱 I’m currently learning ...
-  - Nest.js
-  - Angular
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
-- 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
-- 📫 Reach out to me at: <a href="valenwerlecontacto@gmail.com">valenwerlecontacto@gmail.com</a>
+My day-to-day work focuses on managing, securing, and optimizing transactional databases, handling large volumes of data, and ensuring maximum system performance. I'm passionate about backend architecture and data efficiency. My main goal right now is to consolidate my technical&nbsp; skills to make the definitive leap into Data Engineering.
+
+* 🏢 **Current role:** DBA focused on query optimization, database structuring, and managing critical corporate data.
+* 🌱 **Technical focus:** Backend development, scalable architecture design, and deep database engine optimization.
+* ⚙️ **Philosophy:** Data must be accurate, efficient, and perfectly structured.
+* 📍 **Location:** Arequipa, Peru.
 
 ## My Skills Include
 
