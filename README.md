@@ -1,7 +1,7 @@
 <h1 align="left">Hi! I'm <code>&lt;/Eduardo&gt;</code></h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Database+Administrator+(DBA);Aspiring+Data+Engineer;Data+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=08a88a&center=true&vCenter=true&width=600&lines=Database+Administrator+(DBA);Aspiring+Data+Engineer;Data+Specialist" alt="Typing SVG" />
 </div>
 <!--  -->
 <img align="right" src="https://raw.githubusercontent.com/laplace71/laplace71/main/ulquiorra%20cifer%20bleach%20GIF.gif" width="300" alt="Ulquiorra GIF" />
