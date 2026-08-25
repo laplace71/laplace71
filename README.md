@@ -1,6 +1,4 @@
-
 <h1 align="left">Hi! I'm <code>&lt;/Eduardo&gt;</code></h1>
-
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Database+Administrator+(DBA);Aspiring+Data+Engineer;Data+Specialist" alt="Typing SVG" />
@@ -13,11 +11,10 @@ Hi! I'm a second-year Software Design and Development student, currently working
 
 My day-to-day work focuses on managing, securing, and optimizing transactional databases, handling large volumes of data, and ensuring maximum system performance. I'm passionate about backend architecture and data efficiency. My main goal right now is to consolidate my technical&nbsp; skills to make the definitive leap into Data Engineering.
 
-* 🏢 **Current role:** DBA focused on query optimization, database structuring, and managing critical corporate data.
-* 🌱 **Technical focus:** Backend development, scalable architecture design, and deep database engine optimization.
-* ⚙️ **Philosophy:** Data must be accurate, efficient, and perfectly structured.
-* 📍 **Location:** Arequipa, Peru.
-
+* <img src="https://raw.githubusercontent.com/laplace71/laplace71/main/trabajoicon.gif" width="20" /> **Current role:** DBA focused on query optimization, database structuring, and managing critical corporate data.
+* <img src="https://raw.githubusercontent.com/laplace71/laplace71/main/techineicon.gif" width="20" /> **Technical focus:** Backend development, scalable architecture design, and deep database engine optimization.
+* <img src="https://raw.githubusercontent.com/laplace71/laplace71/main/filosofiaicon.gif" width="20" /> **Philosophy:** Data must be accurate, efficient, and perfectly structured.
+* <img src="https://raw.githubusercontent.com/laplace71/laplace71/main/wired-outline-18-location-pin-hover-jump.gif" width="20" /> **Location:** Arequipa, Peru.
 ## My Skills Include
 
 <h4> Languages </h4>
