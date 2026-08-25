@@ -21,21 +21,13 @@ Soy estudiante de Diseño y Desarrollo de Software y actualmente me desempeño c
 
 ## 🛠️ Stack Tecnológico & Herramientas
 
-Mi ecosistema de trabajo se centra en el manejo robusto de datos y el desarrollo backend:
+He diseñado este conjunto exclusivo de iconos en estilo *neon dark* con sutiles animaciones para reflejar el enfoque técnico y la exclusividad del perfil de datos:
 
-**Bases de Datos & Datos:**
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/[TU_USUARIO_DE_GITHUB]/[NOMBRE_DEL_REPOS_DONDE_GUARDES_LA_IMAGEN]/main/[NOMBRE_DE_LA_IMAGEN_GENERADA.png]" alt="Custom Data Engineer & DBA Tech Stack Icons" width="100%" />
+</div>
 
-**Backend & Lenguajes:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-</p>
+> *Este conjunto incluye: PostgreSQL, Microsoft SQL Server, MySQL, MongoDB, Java y PHP, diseñados para un entorno oscuro y analítico.*
 
 ---
 
