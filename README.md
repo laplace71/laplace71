@@ -10,7 +10,7 @@
 
 Hi! I'm a second-year Software Design and Development student, currently working as a Database Administrator (DBA). 
 
-My day-to-day work focuses on managing, securing, and optimizing transactional databases, handling large volumes of data, and ensuring maximum system performance. I'm passionate about backend architecture and data efficiency. My main goal right now is to consolidate my technical&nbsp; skills to make the definitive leap into Data Engineering.
+My day-to-day work focuses on managing, securing, and optimizing transactional databases, handling large volumes of data, and ensuring maximum system performance. I'm passionate about backend architecture and data efficiency. My main goal right now is&nbsp; to consolidate my technical&nbsp; skills to make the definitive leap into Data Engineering.
 
 * <img src="https://raw.githubusercontent.com/laplace71/laplace71/main/workicon.gif" width="20" /> **Current role:** DBA focused on query optimization, database structuring, and managing critical corporate data.
 * <img src="https://raw.githubusercontent.com/laplace71/laplace71/main/techineicon2.gif" width="20" /> **Technical focus:** Backend development, scalable architecture design, and deep database engine optimization.
