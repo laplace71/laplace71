@@ -5,7 +5,7 @@
 </div>
 <!--  -->
 <h3>About Me</h3>
-<img align="right" src="https://raw.githubusercontent.com/laplace71/laplace71/main/ulquiorra%20cifer%20bleach%20GIF.gif" width="300" alt="Ulquiorra GIF" />
+<img align="right" src="https://raw.githubusercontent.com/laplace71/laplace71/main/ulquiorra%20cifer%20bleach%20GIF.gif" width="280" alt="Ulquiorra GIF" />
 <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="50" height="1" />
 
 Hi! I'm a second-year Software Design and Development student, currently working as a Database Administrator (DBA). 
