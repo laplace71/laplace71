@@ -2,52 +2,71 @@
 
 <h3 align="center">Database Administrator (DBA) | Data Engineer en formación</h3>
 
+<h1 align="left">Hi! I'm <code>&lt;/Eduardo&gt;</code></h1>
+
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Optimizando+Bases+de+Datos;Construyendo+Pipelines+de+Datos;Apasionado+por+el+Backend+y+Data" alt="Typing SVG" />
 </div>
 
----
+<h1 align="center"><b>Hi , I'm Valentina Werle </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-## 👨‍💻 Sobre Mí
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Soy estudiante de Diseño y Desarrollo de Software y actualmente me desempeño como Asistente de Data Engineer y DBA. Me especializo en la administración, optimización y estructuración de bases de datos, con un fuerte enfoque en dar el salto definitivo a la Ingeniería de Datos. 
+I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
+- 🌱 I’m currently learning ...
+  - Nest.js
+  - Angular
+- 👯 I’m looking forward to collaborate on open source projects.
+- ✔ Ask me about anything, I am happy to help<br>
+- Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
+- 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
+- 📫 Reach out to me at: <a href="valenwerlecontacto@gmail.com">valenwerlecontacto@gmail.com</a>
 
-* 🏢 Trabajo optimizando bases de datos y gestionando grandes volúmenes de información en el sector de facturación electrónica.
-* ⚙️ Actualmente enfocado en arquitecturas backend y pipelines de datos.
-* 📚 En constante aprendizaje sobre arquitecturas escalables, automatización de procesos y estructuras de datos.
-* 🌍 Basado en Perú.
+## My Skills Include
 
----
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src= "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+ 
 
-## 🛠️ Stack Tecnológico & Herramientas
 
-He diseñado este conjunto exclusivo de iconos en estilo *neon dark* con sutiles animaciones para reflejar el enfoque técnico y la exclusividad del perfil de datos:
+</span>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/[TU_USUARIO_DE_GITHUB]/[NOMBRE_DEL_REPOS_DONDE_GUARDES_LA_IMAGEN]/main/[NOMBRE_DE_LA_IMAGEN_GENERADA.png]" alt="Custom Data Engineer & DBA Tech Stack Icons" width="100%" />
-</div>
 
-> *Este conjunto incluye: PostgreSQL, Microsoft SQL Server, MySQL, MongoDB, Java y PHP, diseñados para un entorno oscuro y analítico.*
+<h4> Other Tools and Technologies </h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
----
 
-## 📊 Actividad en GitHub
 
-> *Aunque muchos de mis repositorios y scripts de optimización se mantienen en privado por confidencialidad, aquí puedes ver mi constancia y ritmo de trabajo en código.*
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_DE_GITHUB]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[TU_USUARIO_DE_GITHUB]&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
+</span>
 
-<br>
+## Check out my Social Media
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_DE_GITHUB]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
-</div>
-
----
-
-<div align="center">
-  <i>"Los datos no mienten, pero hay que saber estructurarlos."</i>
-</div>
+<a href= "https://www.instagram.com/valenwerle/?hl=es">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+<a href="https://www.tiktok.com/@vapixel_" >
+  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
+</a>
+<a href="https://www.twitch.tv/valenwerle" >
+  <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
+</a>
+<a href="https://www.youtube.com/@ValenWerle">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
+</a>
