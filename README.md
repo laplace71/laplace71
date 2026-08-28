@@ -45,7 +45,6 @@ My day-to-day work focuses on managing, securing, and optimizing transactional d
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </span>
 
 <h4> Analytics & Integrations </h4>
@@ -66,10 +65,12 @@ My day-to-day work focuses on managing, securing, and optimizing transactional d
 <br>
 
 ## Let's Connect
-
 <a href="https://www.linkedin.com/in/eduardo71/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="mailto:eduardo.13pm@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=eduardo.13pm@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://discordapp.com/users/laplace.19">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
